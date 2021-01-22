@@ -1,0 +1,6 @@
+jupyter
+beautifulsoup4
+zeep
+urllib3
+requests
+
